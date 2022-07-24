@@ -1,4 +1,5 @@
 discord==1.7.3
+youtube_dl
 google_images_download
 PyNaCl
 dnspython
