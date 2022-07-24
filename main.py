@@ -39,4 +39,4 @@ async def setup():
     client.add_cog(ImageSearch(client))
 
 client.loop.create_task(setup())
-client.run('OTkxNjk4MzMyMTg1NTQyODEw.GoIR8p.PIW6u5nTCkzZcjAhtSxzi49OeJRZRnOY5lWgu8')
+client.run('NO TOKEN 4 U')
