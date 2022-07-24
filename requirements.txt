@@ -1,0 +1,6 @@
+discord==1.7.3
+google_images_download
+PyNaCl
+dnspython
+wand
+requests
